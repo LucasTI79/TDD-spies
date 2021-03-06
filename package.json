@@ -1,0 +1,11 @@
+{
+  "name": "aula03-spies",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/LucasTI79/TDD-spies.git",
+  "author": "Lucas <lukasalves271@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "sinon": "9"
+  }
+}
